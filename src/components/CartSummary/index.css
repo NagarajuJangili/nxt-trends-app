@@ -1,0 +1,33 @@
+.checkout-btn {
+  background-color: #0b69ff;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 12px;
+  border: none;
+  border-radius: 4px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  outline: none;
+  cursor: pointer;
+}
+.summary-card {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+}
+.total {
+  color: #616e7c;
+  font-size: 18px;
+  font-family: 'roboto';
+}
+.price-sum {
+  color: #171f46;
+  font-size: 20px;
+}
+.count-cart {
+  color: #616e7c;
+  font-size: 16px;
+  font-family: 'roboto';
+}
